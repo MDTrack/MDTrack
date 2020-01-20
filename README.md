@@ -2,7 +2,9 @@
 
 
 Welcome,<br>
-the integration server presented at the EMBC 2019 will be here available soon.
+the binaries for the PLUS Toolkit integration server with SteamVR tracking support presented at the EMBC 2019 are available now.
+A pull request for the official Plus Toolkit repositories was created. We will inform you here if the implementation is available in the official repository.
+
 
 If you consider citing it in your work, please use the following citation:
 
